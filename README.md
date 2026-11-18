@@ -4,7 +4,7 @@ A vanilla JavaScript movie search app built to practice async/await and working 
 
 ## What it does
 
-Search for any movie by title and get back the poster, release year, rating, and overview — pulled live from the TMDB API.
+Search for any movie by title and get back the poster, release year, rating, and overview - pulled live from the TMDB API.
 
 ## Stack
 
